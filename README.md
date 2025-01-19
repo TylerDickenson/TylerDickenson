@@ -58,3 +58,10 @@
 - **[Portfolio Website](https://github.com/TylerDickenson/TylerDickenson.github.io)**  
   _This project is a current work in progress, it's a porfolio website to display completed projects and a bit about myself._
 
+
+---
+
+
+# 📈 Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerDickenson&layout=donut&theme=dracula)
