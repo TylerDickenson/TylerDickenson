@@ -4,7 +4,6 @@
 - 💼 Looking to build a career in the financial technology sector to make managing finances easier and more accessible for everyone.
 - 🌱 Passionate about learning new skills and emerging technologies.
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/tylerjdickenson).
-- 
   
 ---
 
