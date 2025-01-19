@@ -4,8 +4,10 @@
 - 💼 Looking to build a career in the financial technology sector to make managing finances easier and more accessible for everyone.
 - 🌱 Passionate about learning new skills and emerging technologies.
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/tylerjdickenson).
+- 
   
 ---
+
 
 # 🛠️ Technologies I've Used
 
@@ -38,7 +40,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
 </p>
 
+
 ---
+
 
 # 🚀 Projects I'm Working On
 
@@ -47,12 +51,10 @@
   It also incorporates finance tools to allow users to have a greater experience and the ability to converse easier with others._
 
   <br/>
-
 - **[CS2 Price Scraping Bot](https://github.com/TylerDickenson/CS2-Price-Scraper)**  
   _This project uses technologies such as puppeteer to web scrape certain CS2 item trading websites for the best prices._
 
   <br/>
-
-- **[Portfolio Website](https://github.com/yourusername/project3)**  
+- **[Portfolio Website](https://github.com/TylerDickenson/TylerDickenson.github.io)**  
   _This project is a current work in progress, it's a porfolio website to display completed projects and a bit about myself._
 
