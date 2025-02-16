@@ -17,6 +17,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
   <!-- React -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+  <!-- Laravel -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
   <!-- Vite.js -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite.js" alt="Vite.js" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
   <!-- Python -->
@@ -25,8 +27,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
   <!-- Spring Boot -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring Boot" alt="Spring Boot" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-  <!-- Laravel -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
   <!-- PHP -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
   <!-- SQL -->
