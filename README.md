@@ -45,7 +45,7 @@
 
 # 🚀 Projects I'm Working On
 
-- **[Finance Based Social Media Web Application]([https://github.com/yourusername/project1](https://github.com/TylerDickenson/social-finance-app))**  
+- **[Finance Based Social Media Web Application](https://github.com/TylerDickenson/social-finance-app)**  
   _This is my final dissertation project as part of my degree, it involves giving people a safe space where they can freely disscuss personal finance topics with anoymity and no judgement from others.
   It also incorporates finance tools to allow users to have a greater experience and the ability to converse easier with others._
 
