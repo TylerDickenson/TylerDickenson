@@ -54,7 +54,7 @@
   _This project uses technologies such as puppeteer to web scrape certain CS2 item trading websites for the best prices._
 
   <br/>
-- **[Portfolio Website](https://github.com/TylerDickenson/TylerDickenson.github.io)**  
+- **[Portfolio Website](https://github.com/TylerDickenson/Nuxt-Portfolio)**  
   _This project is a current work in progress, it's a porfolio website to display completed projects and a bit about myself._
 
 
